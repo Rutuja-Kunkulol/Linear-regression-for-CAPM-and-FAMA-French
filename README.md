@@ -1,4 +1,4 @@
-# Linear-regression-for-CAPM-and-FAMA-French
+
 Quantitative Analysis of CAPM and Fama-French Three-Factor Model
 Project Overview:
 This GitHub repository presents "Group Project 3," a quantitative analysis project that rigorously applies the Capital Asset Pricing Model (CAPM) and the Fama-French Three-Factor Model to two distinct companies: Ford Motor Company (large-cap) and AtriCure Inc. (small-cap). The project emphasizes numerical analysis and statistical methods to draw comparisons and conclusions about these companies.
